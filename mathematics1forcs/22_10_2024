@@ -1,0 +1,34 @@
+Bei Fragen: klaus.mattis@uni-mainz.de
+
+
+Es gibt Primzahlzwillinge
+Unendlich viele Primzahlen
+
+R(x,y,z):= x<y<z
+
+a|b|a/\b|a\/b|a=>b|a<=>b
+0|0|0   |0   |1   |1
+0|1|0   |1   |0   |0
+1|0|0   |1   |0   |0
+1|1|1   |1   |1   |1
+
+/\: und
+\/: oder
+a=>b: Aus a folgt b
+
+Tautologie Def:
+Aussageform die unabhängig von dem Wahrheitswert der Variablen immer whar ist
+
+Beispiel (a=>b) <=> (nicht a oder b)
+
+Satz 1.1 folgende sind Tautologien
+1) Satz von ausgeschlossenen: ??? a \/ (nicht)a
+2) Satz vom Widerspruch: (nicht)(a /\ (nicht)a)
+3) Doppelte: Verneinung (nicht)((nicht)a) => a
+4) Kontra???:  (a=>b) <=> ((nicht)b => (nicht)a)
+5) Midus ponsens: ((a=>b)/\a) => b
+6) Modus tollens: (a=>b)/\((nicht)b)=> (nicht)a
+7) modus ba?bara: (a=>
+
+
+Aufgabe: Beweisen Sie diesen Satz:

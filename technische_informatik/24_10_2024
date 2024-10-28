@@ -1,0 +1,44 @@
+Klausur 
+Februar 11 2025, 09:00-11:00
+
+Literaturempfehlungen
+
+Digital Design and Computer Architecture Sarah L harris harris
+
+Darstellung von z = 2046 im Dezimalsystem
+z = 2 * 10**3 + 0 * 10 **2 + 4 * 10**1 + 6 * 10**0
+
+49:2=24 Rest 1
+24:2=12 Rest 0
+12:2=6 Rest 0
+6:2=3 Rest 0
+3:2=1 Rest 1
+1:2 Rest 1
+
+reverse
+
+110001
+
+
+ein Galoisfeld ist somit ein körper mit einer endlichen Anzahl von Elementen, auf der als Addition und Multiplikation verstandene Grundoperationen definiert sind, sodass die Menge mit diesen Operationen all Anforderungnen eines körpers erfüllt.
+
+(a+b)*(b+c)*(c+a)=(a*b)+(b*c)+(c*a)
+
+a = 0;
+b = 0;
+c = 0;
+
+0*0*0= 0
+
+a = 1;
+b = 0;
+c = 0;
+
+(1+0) * (0) * (1) = 0 + 0 + 0 //falsch
+
+Ein Minterm Funktionswer 1
+
+Ein maxterm liefert 0
+
+
+
