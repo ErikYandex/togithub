@@ -1,0 +1,12 @@
+pseudocode
+
+Algorithmus
+Setze q = n
+Falls k > 1 (sonst gehe zu Schritt 6)
+	Setze q auf q*n
+	Verringere k um 1
+	Springe zurueck
+Ausgabe ist q
+
+	
+
